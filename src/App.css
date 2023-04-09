@@ -1,0 +1,27 @@
+.container{
+    width: 300px;
+    margin: 50px auto;
+    text-align: center;
+}
+h1{
+    display: flex;
+}
+button{
+    width: 150px;
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid black;
+    background: white;
+}
+ul{
+    width: 150px;
+    border: 1px solid black;
+    margin: 10px auto;
+}
+li{
+    padding: 5px;
+    cursor: pointer;
+}
+li:hover{
+    background: rgb(197, 197, 197);
+}
